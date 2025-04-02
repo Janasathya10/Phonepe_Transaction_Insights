@@ -37,14 +37,14 @@ With the increasing reliance on digital payment systems like PhonePe, understand
 - Develop an interactive dashboard using Streamlit.
 - Create dynamic visualizations using Power BI.
 
-##⚡Features
+## Features
 - **Data Extraction:** Loading transaction data from the PhonePe dataset.
 - **Database Management:** MySQL database setup and data storage.
 - **SQL Analysis:** Querying and analyzing transaction data.
 - **Data Visualization:** Matplotlib and Seaborn for graphical representation.
 - **Dashboard Development:** Interactive visualization using Streamlit and Power BI.
 
-## 🔥Project Structure
+## Project Structure
 ```
 |-- Phonepe_dataexe.ipynb        # Jupyter Notebook for data analysis and SQL queries
 |-- Phonepe_Streamlit.py         # Streamlit application for interactive visualization
@@ -52,7 +52,7 @@ With the increasing reliance on digital payment systems like PhonePe, understand
 |-- README.md                    # Project documentation
 ```
 
-##🛠️ Installation
+## Installation
 ### Prerequisites
 - Python 3.8+
 - MySQL Server
